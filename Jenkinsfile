@@ -9,7 +9,7 @@ pipeline {
       stage('checkout') {
            steps {
              
-                git branch: 'main', url: 'https://github.com/palakbhawsar98/JavaWebApp'
+                git branch: 'main', url: 'https://github.com/daddybapu/project1.git'
              
           }
         }
